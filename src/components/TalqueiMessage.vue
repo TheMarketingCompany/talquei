@@ -34,7 +34,7 @@
           v-else
           key="text"
         >
-          {{ formattedText }}
+          BLUB {{ formattedText }}
         </span>
       </Transition>
     </div>

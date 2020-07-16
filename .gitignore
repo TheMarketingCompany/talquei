@@ -5,3 +5,4 @@ tests/.coverage
 
 .DS_Store
 *.log
+.idea
