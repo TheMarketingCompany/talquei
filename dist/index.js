@@ -351,7 +351,7 @@
       staticClass: "talquei--blink talquei-message__text__pending"
     }, [_vm._v("\n        …\n      ")]) : _c('span', {
       key: "text"
-    }, [_vm._v("\n        BLUB " + _vm._s(_vm.formattedText) + "\n      ")])])], 1)]) : _vm._e();
+    }, [_vm._v("\n        " + _vm._s(_vm.formattedText) + "\n      ")])])], 1)]) : _vm._e();
   };
 
   var __vue_staticRenderFns__ = [];
